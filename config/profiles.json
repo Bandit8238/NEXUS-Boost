@@ -1,1 +1,17 @@
-
+{
+  "low_end": {
+    "resolution": "1280x720",
+    "fps": 120,
+    "renderScale": 70
+  },
+  "competitive": {
+    "resolution": "1920x1080",
+    "fps": 240,
+    "renderScale": 90
+  },
+  "performance": {
+    "resolution": "1600x900",
+    "fps": 165,
+    "renderScale": 80
+  }
+}
